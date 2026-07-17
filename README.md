@@ -38,6 +38,12 @@ npx skills add YLTsing/ai-evaluation-skill --skill ai-evaluation-skill
 
 安装器会让你选择 Codex、Claude Code、Cursor 等目标 Agent，以及项目级或全局安装范围。
 
+也可以直接把下面这句话发给有 Shell 权限的 AI Agent：
+
+```text
+请帮我安装 ai-evaluation-skill：https://github.com/YLTsing/ai-evaluation-skill。请识别当前 AI Agent，使用 npx skills add YLTsing/ai-evaluation-skill --skill ai-evaluation-skill 完成安装，并验证该 Skill 可以被发现。
+```
+
 如果只安装到 Codex，并希望在所有项目中使用，可以跳过交互确认：
 
 ```bash

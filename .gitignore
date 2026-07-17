@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+.env.*
+
+# Local evaluation outputs and runtime configuration
+outputs/*
+!outputs/.gitkeep
+**/runs/
+**/runner_config.json
+judge-results.json
+

@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Evaluation"
+  short_description: "为 AI 产品设计、执行并沉淀可信可复用的评测体系"
+  default_prompt: "Use $ai-evaluation-skill to design an executable evaluation plan for my AI product."

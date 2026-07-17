@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0",
+  "benchmark_version": "待填写",
+  "files": [
+    {
+      "case_id": "CASE-001",
+      "path": "benchmark_materials/CASE-001/input.md",
+      "media_type": "text/markdown",
+      "sha256": "待计算",
+      "role": "input",
+      "input_channel": "例如：file_upload",
+      "representation": "original / parsed_text / structured_payload",
+      "data_origin": "synthetic / authorized_real"
+    }
+  ]
+}
